@@ -150,4 +150,84 @@ It can be divide it into 3 main stages:
 
 ![Image](https://github.com/user-attachments/assets/65628ee6-1651-469f-9911-e40e7f73cb4d)
 
-#
+
+This is a powerful and interactive **NLP-based web application** that performs **text summarization, keyword extraction, and question answering** using advanced deep learning models from Hugging Face Transformers.
+
+Built with **Gradio**, this application provides a user-friendly interface to input raw text, upload documents, or extract content from a URL — and then processes the data to give you concise summaries, relevant keywords, and accurate answers to user queries.
+
+
+---
+
+## 🛠️ Features
+
+- 📥 **Multi-modal Input Support**
+  - Enter text manually in a textbox
+  - Upload `.txt` or `.pdf` files
+  - Provide a URL for automatic text scraping
+
+- 🧾 **Text Summarization**
+  - Supports **Abstractive** and **Extractive** summarization
+  - User-defined summary length and format (paragraph/bullet points)
+  - Choose summarization models dynamically
+
+- 🧠 **Question Answering**
+  - Ask any number of questions based on the input text
+  - Supports follow-up questions using chat history
+  - Displays model confidence scores
+
+- 🔑 **Keyword Extraction**
+  - Automatically extracts top-ranked keywords using **RAKE-NLTK**
+
+- 📊 **Output Metrics**
+  - Input word count
+  - Summary word count
+  - Compression rate
+  - Readability score (Flesch Reading Ease)
+
+- 💾 **Downloadable Outputs**
+  - Download summary and Q&A session as `.txt` files
+
+- 🧼 **Clear All**: Reset the entire interface with one click
+
+---
+
+## 🧠 NLP Concepts & Technologies Used
+
+### 🔍 **Summarization Types**
+- **Abstractive Summarization**: Generates new sentences that capture the meaning of the input text using a Transformer model.
+- **Extractive Summarization**: Selects and ranks the most relevant sentences from the original text (uses NLTK sentence tokenization).
+
+### 🤖 **Keyword Extraction**
+- Uses **RAKE (Rapid Automatic Keyword Extraction)** via `rake-nltk` to extract the most relevant keyword phrases from the text.
+
+### ❓ **Question Answering**
+- Extractive QA: Locates the exact answer span from the input context.
+- Conversation support: Maintains history for follow-up questions.
+
+### 📐 **Readability & Metrics**
+- Calculates:
+  - Word counts (input vs summary)
+  - Compression Rate: `% reduction from input to summary`
+  - Readability Score: Flesch Reading Ease using `textstat`
+
+---
+
+## 🧰 Models Used
+
+### 📝 **Summarization Models**
+| Model Name | Description |
+|------------|-------------|
+| `facebook/bart-large-cnn` | A powerful abstractive summarization model fine-tuned on CNN/DailyMail |
+| `t5-base` | A text-to-text transformer that performs multiple NLP tasks including summarization |
+
+### ❓ **Question Answering Models**
+| Model Name | Description |
+|------------|-------------|
+| `distilbert-base-uncased-distilled-squad` | Lightweight and fast QA model fine-tuned on SQuAD |
+| `bert-base-cased-finetuned-squad` | Standard BERT model fine-tuned on SQuAD for QA tasks |
+
+---
+
+
+
+
