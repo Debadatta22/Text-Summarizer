@@ -1,6 +1,40 @@
 # Text-Summarizer
 This project is an advanced text processing app using Gradio and Hugging Face Transformers. It summarizes text, extracts keywords, answers questions, and provides metrics. It accepts text input from a textbox, file upload, or URL, and allows users to select models and customize summarization options.
 
+**Proxenix Internship**- Data Science & Analytics
+
+**Project Team** – Group 19 
+
+# Details
+
+**Adarsh S J** [Team Leader]
+
+adarshsj4002@gmail.com
+
+
+------
+
+**Poonam Parida**
+
+poonamparida819@gmail.com
+
+----------
+
+**SOMYA RANJAN MAHAPATRA**
+
+srm270405@gmail.com
+
+----------
+
+
+**Debadatta Rout**
+
+routdebadatta22@gmail.com
+
+---------------
+
+
+
 # Deployment
 
 ## 🔗 Project Links
