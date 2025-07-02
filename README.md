@@ -464,6 +464,15 @@ Errors and edge cases (empty text, unsupported files, model issues) return prope
 
 ## Results and Output Recordings:
 
+Bullet point summarizer-
+
+![image](https://github.com/user-attachments/assets/151db7d3-65a6-4323-80f1-76f731b15e43)
+
+Passage form Summarizer with Q&A-
+
+![image](https://github.com/user-attachments/assets/3debf045-17df-46c0-b819-6c53273fda89)
+
+
 
 
 --------------------
