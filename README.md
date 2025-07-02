@@ -26,6 +26,22 @@ Email: routdebadatta22@gmail.com
 Phone: 9827068499
 
 ------
+
+# My Text Summarizer screen (As i have designed it)
+
+![image](https://github.com/user-attachments/assets/282414ab-2f91-455c-a247-36e48a2400c8)
+
+![image](https://github.com/user-attachments/assets/856ff83a-3dc7-4590-bbc6-f580c2c4116b)
+
+![image](https://github.com/user-attachments/assets/b97845ff-ac72-484f-a249-e63771d3c992)
+
+![image](https://github.com/user-attachments/assets/77677f2b-dbe5-4ca8-87e6-975fa25ef3c5)
+
+![image](https://github.com/user-attachments/assets/031c7b5c-8aad-4c3c-b1d3-6d03451b3519)
+
+-----------------------------
+
+
 # Project Description
 This project is an advanced text processing application built using Gradio and various natural language processing libraries such as Hugging Face Transformers, RAKE-NLTK, NLTK, and TextStat. It provides a user-friendly web interface to perform the following tasks:
 
