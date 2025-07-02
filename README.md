@@ -9,6 +9,16 @@ This project is an advanced text processing app using Gradio and Hugging Face Tr
 
 - 👉 [Click here to view the full code on Google Colab](https://colab.research.google.com/drive/1spdf4YuYqWIuOyNE-cgz4OodrLF9lO9C?usp=sharing)
 
+## 📽️ Usage Demonstrations
+
+Here are some sample recordings of the application in action:
+
+1. **Entering Text as Input** – [Click here to watch](https://drive.google.com/file/d/18VWy2Z3aWAG_80hCWxjqis8hHMdWeDCv/view?usp=sharing)
+2. **Uploading a File as Input** – [Click here to watch](https://drive.google.com/file/d/129CQ06HQIZ5fqsbPe6udXSWT8Anj6_6A/view?usp=sharing)
+3. **Summarizing in Bullet Points Format** – [Click here to watch](https://drive.google.com/file/d/1Ackk8D6TIOqAxZlWHGlRlSd9pCrYRsJ0/view?usp=sharing)
+
+---------------------------
+
 👥 Credits
 -------------
 🎯 **Deployment**
@@ -471,6 +481,12 @@ Bullet point summarizer-
 Passage form Summarizer with Q&A-
 
 ![image](https://github.com/user-attachments/assets/3debf045-17df-46c0-b819-6c53273fda89)
+
+
+- 📄 **Entering Text as Input** – [Click here to watch](https://drive.google.com/file/d/18VWy2Z3aWAG_80hCWxjqis8hHMdWeDCv/view?usp=sharing)
+- 📁 **Uploading File as Input** – [Click here to watch](https://drive.google.com/file/d/129CQ06HQIZ5fqsbPe6udXSWT8Anj6_6A/view?usp=sharing)
+- 📝 **Summarizing Through Bullet Points** – [Click here to watch](https://drive.google.com/file/d/1Ackk8D6TIOqAxZlWHGlRlSd9pCrYRsJ0/view?usp=sharing)
+
 
 
 
