@@ -1,0 +1,10 @@
+gradio
+transformers
+rake-nltk
+requests
+beautifulsoup4
+pypdf
+torch
+accelerate
+textstat
+nltk
