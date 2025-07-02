@@ -73,6 +73,38 @@ ensuring that all required NLTK resources are downloaded:
 
 **punkt_tab** – Possibly needed for tokenization metadata.
 
-also handled SSL-related download issues using Python’s ssl module — good practice for cross-platform compatibility.
+Also handled SSL-related download issues using Python’s ssl module — good practice for cross-platform compatibility.
+
+Successfully built a feature-rich, production-level text summarization and question answering app with a modular, scalable architecture.
 
 ------------
+
+# Section 2: Full Application Code
+
+📥 **Input Handling:** .txt, .pdf, URLs, or direct text input.
+
+🧠 **Model Handling:** Dynamic, cacheable loading of summarization and QA models.
+
+📝 **Summarization:** Abstractive (with model) and Extractive (with NLTK).
+
+🔑 **Keyword Extraction:** RAKE-based, with NLTK support.
+
+❓ **Q&A:** DistilBERT / BERT extractive QA with confidence and follow-up support.
+
+📊 **Metrics:** Word counts, compression rate, Flesch readability score.
+
+💾 **File downloads:** For summary and QA.
+
+🧼 **UI:** Interactive Gradio interface with radio buttons, sliders, and chatbot.
+
+🔄 Clear functionality to reset all fields.
+
+----------------
+
+# Flowchart Idea: "Text Processing App - Workflow
+
+It can be divide it into 3 main stages:
+
+1. Input Handling
+2.  Preprocessing & Analysis & Core NLP Tasks
+3.  Output & Interaction
