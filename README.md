@@ -3,6 +3,27 @@ This project is an advanced text processing app using Gradio and Hugging Face Tr
 
 # Deployment
 
+## 🔗 Project Links
+
+- 👉 [Click here to access the deployed application on Hugging Face Spaces](https://huggingface.co/spaces/somya-27-04-03/Text-Summarizer-Project)
+
+- 👉 [Click here to view the full code on Google Colab](https://colab.research.google.com/drive/1spdf4YuYqWIuOyNE-cgz4OodrLF9lO9C?usp=sharing)
+
+👥 Credits
+-------------
+🎯 **Deployment**
+By: Somya Ranjan Mahapatra
+
+Email: srm270405@gmail.com
+
+Phone: 7653869609
+
+💻 **Code & Design**
+By: Debadatta Rout
+
+Email: routdebadatta22@gmail.com
+
+Phone: 9827068499
 
 ------
 # Project Description
