@@ -16,14 +16,12 @@ By: Somya Ranjan Mahapatra
 
 Email: srm270405@gmail.com
 
-Phone: 7653869609
 
 💻 **Code & Design**
 By: Debadatta Rout
 
 Email: routdebadatta22@gmail.com
 
-Phone: 9827068499
 
 ------
 
