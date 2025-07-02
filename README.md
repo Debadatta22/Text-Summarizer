@@ -37,6 +37,17 @@ Email: routdebadatta22@gmail.com
 
 ![image](https://github.com/user-attachments/assets/031c7b5c-8aad-4c3c-b1d3-6d03451b3519)
 
+# Interface after deployment by our Team member-as mentioned above
+
+![image](https://github.com/user-attachments/assets/c3c98294-a535-4184-bc01-a26a32efb437)
+
+![image](https://github.com/user-attachments/assets/8b72d6a3-552f-4b30-b0ce-cceb7edd2e07)
+
+![image](https://github.com/user-attachments/assets/c7de9aa9-3479-403f-a882-df29de7e9680)
+
+
+
+
 -----------------------------
 
 
