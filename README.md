@@ -1,5 +1,9 @@
 # Text-Summarizer
 This project is an advanced text processing app using Gradio and Hugging Face Transformers. It summarizes text, extracts keywords, answers questions, and provides metrics. It accepts text input from a textbox, file upload, or URL, and allows users to select models and customize summarization options.
+
+# Deployment
+
+
 ------
 # Project Description
 This project is an advanced text processing application built using Gradio and various natural language processing libraries such as Hugging Face Transformers, RAKE-NLTK, NLTK, and TextStat. It provides a user-friendly web interface to perform the following tasks:
@@ -108,3 +112,7 @@ It can be divide it into 3 main stages:
 1. Input Handling
 2.  Preprocessing & Analysis & Core NLP Tasks
 3.  Output & Interaction
+
+![Image](https://github.com/user-attachments/assets/65628ee6-1651-469f-9911-e40e7f73cb4d)
+
+#
